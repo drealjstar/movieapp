@@ -1,0 +1,12 @@
+.az{
+    background-color:rgb(156, 110, 201);
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  
+  .ba , .bb{
+    list-style: none;
+  }

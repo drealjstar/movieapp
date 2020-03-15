@@ -1,0 +1,17 @@
+.search{
+    padding: 10px;
+    width: 650px;
+  }
+  
+  button{
+    padding: 12px;
+    background-color:rebeccapurple;
+    color: white;
+    border-radius: 8px;
+    border-color: rebeccapurple;
+  }
+
+  .aj{
+      text-align: center;
+      margin-top: -283px;
+  }

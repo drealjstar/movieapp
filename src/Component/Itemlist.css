@@ -1,0 +1,13 @@
+.bc li{
+    background-color:white;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    list-style-position: inside ;
+    border-radius: 5px;
+    margin: -8.5px;
+   list-style: none;
+   margin: 2px;
+   padding-top: 10px;
+   
+  }

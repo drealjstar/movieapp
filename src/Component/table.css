@@ -1,0 +1,54 @@
+
+th, td{
+    padding: 15px;
+
+}
+
+button{
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top:15px ;
+    padding-bottom: 15px;
+    
+}
+
+.ca{
+border-radius: 4px;
+background-color:rgb(212, 6, 6);
+border-style: none;
+}
+.cb{
+    border-radius: 4px;
+    background-color:rgb(212, 6, 6);
+    border-style: none;
+}
+.cc{
+    border-radius: 4px;
+    background-color:rgb(212, 6, 6);
+    border-style: none;
+}
+.cd{
+    border-radius: 4px;
+    background-color:rgb(212, 6, 6);
+    border-style: none;
+}
+
+table{
+    background-color:gainsboro;
+    padding-right: 30px;
+    
+    }
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
